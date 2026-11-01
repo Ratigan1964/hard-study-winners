@@ -1,8 +1,8 @@
 # 🛸 Hard Study Winners | Web Portal
 
-![License](https://img.shields.io/github/license/Ganesha1967/hard-study-winners?style=flat-square&color=6366f1)
-![Stars](https://img.shields.io/github/stars/Ganesha1967/hard-study-winners?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/Ganesha1967/hard-study-winners?style=flat-square&color=8b5cf6)
+![License](https://img.shields.io/github/license/Ratigan1964/hard-study-winners?style=flat-square&color=6366f1)
+![Stars](https://img.shields.io/github/stars/Ratigan1964/hard-study-winners?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Ratigan1964/hard-study-winners?style=flat-square&color=8b5cf6)
 
 Официальный веб-портал сообщества **Hard Study Winners** - пространства для дисциплины, продуктивности и совместного роста
 
@@ -23,7 +23,7 @@
 ## Локальный запуск
 
 ```bash
-git clone https://github.com/Ganesha1967/hard-study-winners.git
+git clone https://github.com/Ratigan1964/hard-study-winners.git
 
 cd hard-study-winners
 ```
