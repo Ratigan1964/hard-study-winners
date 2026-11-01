@@ -1,0 +1,65 @@
+# ---------- Node / Frontend ----------
+node_modules/
+.pnp
+.pnp.js
+.pnpm-store/
+
+# ---------- Build artifacts ----------
+dist/
+build/
+.vite/
+.astro/
+.temp/
+.tmp/
+.cache/
+.sass-cache/
+
+# ---------- Caches ----------
+.eslintcache
+.stylelintcache
+
+# ---------- Logs ----------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- Environment ----------
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+*.env
+
+# ---------- IDE / Editors ----------
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+.idea/workspace.xml
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Backups (экспорт данных трекера) ----------
+habits_backup_*.json
+study_timer_backup_*.json
+
+# ---------- Local junk ----------
+teaser.pptx
+~$teaser.pptx
