@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ganesha1967/hard-study-winners.git"
+    "url": "git+https://github.com/Ratigan1964/hard-study-winners.git"
   },
   "keywords": [
     "study",
@@ -18,12 +18,12 @@
     "tracker",
     "community"
   ],
-  "author": "Ganesha1967",
+  "author": "Ratigan1964",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ganesha1967/hard-study-winners/issues"
+    "url": "https://github.com/Ratigan1964/hard-study-winners/issues"
   },
-  "homepage": "https://github.com/Ganesha1967/hard-study-winners#readme",
+  "homepage": "https://github.com/Ratigan1964/hard-study-winners#readme",
   "devDependencies": {
     "husky": "^9.1.7",
     "lint-staged": "^17.5.1",
