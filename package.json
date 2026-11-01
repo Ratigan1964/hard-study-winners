@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Ratigan1964/hard-study-winners#readme",
   "devDependencies": {
+    "http-server": "^14.1.1",
     "husky": "^9.1.7",
     "lint-staged": "^17.5.1",
     "prettier": "^3.9.8"
